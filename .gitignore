@@ -1,0 +1,19 @@
+## Data — too large for GitHub (650MB+ CSVs)
+data/
+
+## Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+## Virtual environments
+.venv/
+env/
+
+## macOS
+.DS_Store
+
+## Secrets
+.env
+kaggle.json

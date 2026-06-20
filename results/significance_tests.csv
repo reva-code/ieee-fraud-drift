@@ -1,0 +1,11 @@
+strategy_A,strategy_B,wilcoxon_stat,p_value,significant,better
+No_Retrain,W_plus_1,4.0,0.0,True,W_plus_1
+No_Retrain,W_times_2,11.0,0.0,True,W_times_2
+No_Retrain,W_div_2,196.0,0.642,False,No_Retrain
+No_Retrain,W_fixed,0.0,0.0,True,W_fixed
+W_plus_1,W_times_2,58.0,0.0016,True,W_times_2
+W_plus_1,W_div_2,41.0,0.0001,True,W_plus_1
+W_plus_1,W_fixed,16.0,0.0,True,W_fixed
+W_times_2,W_div_2,20.0,0.0,True,W_times_2
+W_times_2,W_fixed,43.0,0.0002,True,W_fixed
+W_div_2,W_fixed,14.0,0.0,True,W_fixed
