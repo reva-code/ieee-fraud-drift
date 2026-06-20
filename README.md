@@ -163,11 +163,6 @@ Opens at `http://localhost:8501`
 
 `scikit-learn` · `river` · `shap` · `streamlit` · `plotly` · `scipy` · `pandas` · `matplotlib` · `seaborn`
 
-
-
-
-```
-
 ---
 
-**Author:** Neha Gaba · [github.com/reva-code](https://github.com/reva-code)
+[github.com/reva-code](https://github.com/reva-code)
