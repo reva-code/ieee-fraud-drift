@@ -1,7 +1,6 @@
 # MCDM-Guided Adaptive Learning Under Distribution Drift
 ### Fraud Detection in Non-Stationary Data Streams
-
-> Research project targeting **IEEE BigData 2026** | Dataset: IEEE-CIS Fraud Detection (590k transactions)
+Dataset: IEEE-CIS Fraud Detection (590k transactions)
 
 ---
 
@@ -164,18 +163,9 @@ Opens at `http://localhost:8501`
 
 `scikit-learn` · `river` · `shap` · `streamlit` · `plotly` · `scipy` · `pandas` · `matplotlib` · `seaborn`
 
----
 
-## Citation
 
-```bibtex
-@inproceedings{gaba2026mcdm,
-  title     = {MCDM-Guided Adaptive Learning Under Distribution Drift:
-               A Framework for Fraud Detection in Non-Stationary Streams},
-  author    = {Gaba, Neha},
-  booktitle = {Proceedings of the IEEE International Conference on Big Data (IEEE BigData)},
-  year      = {2026}
-}
+
 ```
 
 ---
